@@ -1,0 +1,20 @@
+name = "Tanka"
+license = "GPL-v3"
+licenselink = "https://github.com/road2stat/hugo-tanka/blob/master/LICENSE"
+description = "A minimalist, text oriented, and performant theme for Hugo."
+homepage = "https://github.com/road2stat/hugo-tanka"
+tags = []
+features = []
+min_version = 0.17
+
+# author of this modified version
+[[author]]
+  name = "Nan Xiao"
+  homepage = "https://nanx.me"
+  repo = "https://github.com/road2stat/hugo-tanka"
+
+# original creator of the theme
+[[original]]
+  name = "David Hamp-Gonsalves"
+  homepage = "https://davidhampgonsalves.com"
+  repo = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"

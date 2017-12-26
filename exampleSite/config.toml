@@ -1,0 +1,17 @@
+baseurl = "/"
+publishDir = "docs"
+title = "Hugo Tanka Theme"
+author = "Nan Xiao"
+canonifyurls = true
+languagecode = "en"
+theme = "hugo-tanka"
+
+pygmentsstyle      = "vs"
+pygmentscodefences = true
+
+[params]
+  sitename = "Hugo Tanka Theme"
+
+# [[menu.main]]
+#     name = "About"
+#     url  = "https://nanx.me"
