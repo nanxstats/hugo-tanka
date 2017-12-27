@@ -6,13 +6,12 @@ This Hugo theme is ported from the [Hugo Black & Light theme](https://github.com
 
 ## Features
 
-- Loads in a single request (with web-fonts disabled).
-- 100 / 100 on Google Page Speed test (100 / 100 on mobile with web-fonts disabled).
-- Scriptless (unless you configure Google Analytics).
-- Styles inlined in head.
-- High Contrast.
-- High Resolution Favicons.
+- Minimalist
+- Responsive
+- Typography first
+- High Contrast
 - Disqus
+- Google Analytics
 
 ![Screenshot](https://github.com/road2stat/hugo-tanka/blob/master/images/screenshot.png)
 
