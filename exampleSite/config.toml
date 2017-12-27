@@ -5,13 +5,30 @@ author = "Nan Xiao"
 canonifyurls = true
 languagecode = "en"
 theme = "hugo-tanka"
+googleAnalytics = ""
+disqusShortname = ""
 
 pygmentsstyle      = "vs"
 pygmentscodefences = true
 
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
 [params]
   sitename = "Hugo Tanka Theme"
 
-# [[menu.main]]
-#     name = "About"
-#     url  = "https://nanx.me"
+[[menu.main]]
+    name = "Home"
+    url = "https://nanx.me"
+    weight = 1
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/road2stat"
+    weight = 2
+[[menu.main]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/road2stat"
+    weight = 3
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/road2stat"
+    weight = 4

@@ -6,8 +6,6 @@ homepage = "https://github.com/road2stat/hugo-tanka"
 tags = []
 features = []
 min_version = 0.17
-googleAnalytics = ""
-disqusShortname = ""
 
 # author of this modified version
 [[author]]
