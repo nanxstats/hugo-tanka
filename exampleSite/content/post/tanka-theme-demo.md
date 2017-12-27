@@ -1,5 +1,6 @@
 ---
 title: "Tanka Theme Demo"
+author: "Jane Doe"
 date: "2017-12-26"
 ---
 
@@ -7,11 +8,12 @@ date: "2017-12-26"
 
 ## Features
 
-* Loads in a single request (with web-fonts disabled)
-* 100 / 100 on Google Page Speed test (100 / 100 on mobile with web-fonts disabled)
-* Scriptless (unless you enable Google Analyitcs)
-* Styles inlined in head
-* MathJax support
+- Minimalist
+- Responsive
+- Typography first
+- High Contrast
+- Disqus
+- Google Analytics
 
 ## Typography
 
