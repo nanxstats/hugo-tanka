@@ -1,5 +1,7 @@
 # Tanka
 
+[Live Preview](https://nanx.me/blog/)
+
 A minimalist, text oriented, and performant theme for Hugo.
 
 This Hugo theme is ported from the [Hugo Black & Light theme](https://github.com/davidhampgonsalves/hugo-black-and-light-theme) created by David Hamp-Gonsalves.
@@ -13,7 +15,7 @@ This Hugo theme is ported from the [Hugo Black & Light theme](https://github.com
 - Disqus
 - Google Analytics
 
-![Screenshot](https://github.com/road2stat/hugo-tanka/blob/master/images/screenshot.png)
+![Screenshot](https://github.com/road2stat/hugo-tanka/blob/master/images/hugo-tanka-theme-screenshot.png)
 
 ## Installation
 
