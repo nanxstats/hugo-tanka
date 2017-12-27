@@ -12,6 +12,7 @@ This Hugo theme is ported from the [Hugo Black & Light theme](https://github.com
 - Styles inlined in head.
 - High Contrast.
 - High Resolution Favicons.
+- Disqus
 
 ![Screenshot](https://github.com/road2stat/hugo-tanka/blob/master/images/screenshot.png)
 
