@@ -2,9 +2,9 @@
 
 [Live Preview](https://nanx.me/blog/)
 
-A minimalist, text oriented, and performant theme for Hugo.
+A minimalist, text-oriented, and performant theme for Hugo/blogdown.
 
-This Hugo theme is ported from the [Hugo Black & Light theme](https://github.com/davidhampgonsalves/hugo-black-and-light-theme) created by David Hamp-Gonsalves.
+This theme is ported and modified from the [Black & Light theme](https://github.com/davidhampgonsalves/hugo-black-and-light-theme) created by David Hamp-Gonsalves.
 
 ## Features
 
