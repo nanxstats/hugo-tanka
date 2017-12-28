@@ -98,6 +98,12 @@ pre code::after {
   font-size: .9em;
 }
 
+/* figure captions */
+
+.caption {
+  text-align: center
+}
+
 em,q,em,dfn {
   font-style:italic;
 }
