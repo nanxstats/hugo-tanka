@@ -5,6 +5,7 @@ author = "Nan Xiao"
 canonifyurls = true
 languagecode = "en"
 theme = "hugo-tanka"
+
 googleAnalytics = ""
 disqusShortname = ""
 disable_mathjax = false

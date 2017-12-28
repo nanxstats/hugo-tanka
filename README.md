@@ -14,6 +14,7 @@ This theme is ported and modified from the [Black & Light theme](https://github.
 - High Contrast
 - Disqus
 - Google Analytics
+- MathJax
 
 ![Screenshot](https://github.com/road2stat/hugo-tanka/blob/master/images/hugo-tanka-theme-screenshot.png)
 
