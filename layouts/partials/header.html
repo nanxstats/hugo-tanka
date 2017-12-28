@@ -9,7 +9,8 @@
   <meta name="referrer" content="no-referrer">
   {{ if .Site.Params.description }}<meta name="description" content="{{ .Site.Params.description }}">{{ end }}
 
-  <link href="https://fonts.googleapis.com/css?family=EB+Garamond:500" rel="stylesheet">
+  {{ partial "font_title.html" . }}
+  {{ partial "font_body.html" . }}
 
   <link rel="icon" type="image/png" href="/favicon.png">
 
