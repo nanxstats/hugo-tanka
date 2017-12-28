@@ -9,9 +9,6 @@
   <meta name="referrer" content="no-referrer">
   {{ if .Site.Params.description }}<meta name="description" content="{{ .Site.Params.description }}">{{ end }}
 
-  {{ partial "font_title.html" . }}
-  {{ partial "font_body.html" . }}
-
   <link rel="icon" type="image/png" href="/favicon.png">
 
   <title>
@@ -24,7 +21,8 @@
   </title>
   <link rel="canonical" href="{{ .Permalink }}">
 
-  {{ partial "styles.html" . }}
+  <link rel="stylesheet" href="{{ "/css/fonts.css" | relURL }}" />
+  <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}" />
 
   {{ if .RSSLink }}
   <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />

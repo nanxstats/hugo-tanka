@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "TiemposHeadline";
+  src: url("https://www.bu.edu/cdn/fonts/TiemposHeadline/TiemposHeadline-Regular.eot");
+  src: url("https://www.bu.edu/cdn/fonts/TiemposHeadline/TiemposHeadline-Regular.eot?#iefix") format("embedded-opentype"),
+  url("https://www.bu.edu/cdn/fonts/TiemposHeadline/TiemposHeadline-Regular.woff") format("woff");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "TiemposText";
+  src: url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Regular.eot");
+  src: url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Regular.eot?#iefix") format("embedded-opentype"),
+  url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Regular.woff") format("woff");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "TiemposText";
+  src: url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Regular-Italic.eot");
+  src: url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Regular-Italic.eot?#iefix") format("embedded-opentype"),
+  url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Regular-Italic.woff") format("woff");
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "TiemposText";
+  src: url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Semibold.eot");
+  src: url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Semibold.eot?#iefix") format("embedded-opentype"),
+  url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Semibold.woff") format("woff");
+  font-style: normal;
+  font-weight: 600;
+}
