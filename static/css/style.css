@@ -371,3 +371,25 @@ ul li:before {
     font-size: 12px;
   }
 }
+
+table {
+	border-collapse:collapse;
+	border-top:1px black solid;
+	border-bottom:1px black solid;
+	min-width:100%;
+}
+
+th, td {
+	padding:0.4em;
+}
+
+th { 
+	border-bottom:1px black solid;
+	font-weight:bold;
+}
+
+tr:nth-child(even) {background: #f7f7f7}
+
+caption {
+  font-weight:bold;
+}
