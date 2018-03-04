@@ -10,7 +10,7 @@
 }
 
 body {
-  font-family: "TiemposText", Georgia, Times, "Times New Roman", serif;
+  font-family: "Source Serif Pro", Georgia, Times, "Times New Roman", serif;
   font-size: 16px;
   line-height: 160%;
   color: #333;
@@ -117,7 +117,8 @@ em,q,em,dfn {
 }
 
 .heading,.serif,h1,h2,h3 {
-  font-family: "TiemposHeadline", serif;
+  font-family: "Source Serif Pro", serif;
+  font-weight: 600;
 }
 
 strong {
@@ -186,7 +187,7 @@ h1,h2 {
 
 #sub-header, time {
   color: #738491;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 #sub-header {
@@ -226,7 +227,7 @@ ul li:before {
 #content {
   text-align: left;
   width: 100%;
-  font-size: 16px;
+  font-size: 17px;
   padding: 60px 0 80px;
 }
 
@@ -297,7 +298,7 @@ ul li:before {
 }
 
 #not-found a {
-  font-family: "TiemposHeadline", serif;
+  font-family: "Source Serif Pro", serif;
   font-size: 200px;
   text-decoration: none;
   display: inline-block;
