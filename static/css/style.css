@@ -10,9 +10,9 @@
 }
 
 body {
-  font-family: "Source Serif Pro", Georgia, Times, "Times New Roman", serif;
-  font-size: 16px;
-  line-height: 160%;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-size: 17px;
+  line-height: 28px;
   color: #333;
   max-width: 700px;
   margin: auto;
@@ -117,7 +117,7 @@ em,q,em,dfn {
 }
 
 .heading,.serif,h1,h2,h3 {
-  font-family: "Source Serif Pro", serif;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
   font-weight: 600;
   line-height: 120%;
 }
@@ -299,7 +299,7 @@ ul li:before {
 }
 
 #not-found a {
-  font-family: "Source Serif Pro", serif;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
   font-size: 200px;
   text-decoration: none;
   display: inline-block;
