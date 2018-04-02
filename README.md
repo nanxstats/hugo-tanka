@@ -11,6 +11,7 @@ This theme is ported and modified from the [Black & Light theme](https://github.
 - Minimalist
 - Responsive
 - Typography first
+- Native font stack
 - High Contrast
 - Disqus
 - Google Analytics
@@ -23,7 +24,7 @@ This theme is ported and modified from the [Black & Light theme](https://github.
 Inside the folder of your Hugo site run:
 
 ```bash
-  git submodule add https://github.com/road2stat/hugo-tanka.git themes/hugo-tanka
+git submodule add https://github.com/road2stat/hugo-tanka.git themes/hugo-tanka
 ```
 
 For more information read the official [setup guide](https://gohugo.io/overview/installing/) of Hugo.
@@ -34,4 +35,4 @@ Copy the [`config.toml`](https://github.com/road2stat/hugo-tanka/blob/master/exa
 
 ## License
 
-This theme is released under the GNU 3.0 license. For more information read the [license](https://github.com/road2stat/hugo-tanka/blob/master/LICENSE).
+This theme is released under [GPLv3](https://github.com/road2stat/hugo-tanka/blob/master/LICENSE).
