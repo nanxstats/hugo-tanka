@@ -161,24 +161,17 @@ h1,h2 {
   color: #333;
   line-height: 120%;
 }
-.posts_listing a,#nav a {
+.posts_listing a, #nav a {
   text-decoration: none;
 }
 li {
-  margin-left: 20px;
+  margin-left: 1.6rem;
 }
 ul li {
-  margin-left: 5px;
+  margin-left: 1.2rem;
 }
-ul li {
+.posts_listing li {
   list-style-type: none;
-}
-ul li:before {
-  content:"\00BB \0020 \00a0";
-}
-#nav ul li:before, .posts_listing li:before {
-  content:'';
-  margin-right:0;
 }
 #content {
   text-align: left;
@@ -186,7 +179,7 @@ ul li:before {
   font-size: 17px;
   padding: 60px 0 80px;
 }
-#content h1,#content h2 {
+#content h1, #content h2 {
   margin-bottom: 5px;
 }
 #content h2 {
