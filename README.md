@@ -1,6 +1,6 @@
 # Tanka
 
-[Live Preview](https://nanx.me/blog/)
+[Live Preview](https://nanx.me/hugo-tanka/)
 
 A minimalist, text-oriented, and performant theme for Hugo/blogdown.
 
