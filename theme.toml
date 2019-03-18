@@ -1,8 +1,8 @@
 name = "Tanka"
 license = "GPL-v3"
-licenselink = "https://github.com/road2stat/hugo-tanka/blob/master/LICENSE"
+licenselink = "https://github.com/nanxstats/hugo-tanka/blob/master/LICENSE"
 description = "A minimalist, text oriented, and performant theme for Hugo."
-homepage = "https://github.com/road2stat/hugo-tanka"
+homepage = "https://github.com/nanxstats/hugo-tanka"
 tags = []
 features = []
 min_version = 0.17
@@ -11,7 +11,7 @@ min_version = 0.17
 [[author]]
   name = "Nan Xiao"
   homepage = "https://nanx.me"
-  repo = "https://github.com/road2stat/hugo-tanka"
+  repo = "https://github.com/nanxstats/hugo-tanka"
 
 # original creator of the theme
 [[original]]

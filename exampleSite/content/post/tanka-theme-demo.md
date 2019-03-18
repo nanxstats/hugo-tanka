@@ -4,7 +4,7 @@ author: "Jane Doe"
 date: "2017-12-26"
 ---
 
-[Tanka](https://github.com/road2stat/hugo-tanka) is a minimalist, text-oriented, and performant Hugo theme.
+[Tanka](https://github.com/nanxstats/hugo-tanka) is a minimalist, text-oriented, and performant Hugo theme.
 
 ## Features
 
@@ -47,7 +47,7 @@ _This is italic text_
 > They can span multiple paragraphs,
 > if you like.
 
-Some text, and some `code` and then a nice plain [link with title](https://github.com/road2stat/blog "title text!").
+Some text, and some `code` and then a nice plain [link with title](https://github.com/nanxstats "title text!").
 
 and then
 
