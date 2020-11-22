@@ -1,16 +1,23 @@
-{{ partial "header.html" . }}
+{{ define "main" }}
+{{ partial "header" . }}
 
-<section id=content>
-  <ul class=posts_listing>
-    {{ range .Data.Pages.ByDate.Reverse }}
-      <li>
-        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-        <div id=date>
-          <time>{{ .Date.Format (.Site.Params.dateform | default "2006/01/02") }}</time>
+<div class="content">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-sm-12 col-lg-8">
+
+                <div class="mx-0 mx-md-4 posts">
+                    {{ range .Data.Pages.GroupByDate "2006" "desc"}}
+                    {{ range sort .Pages "Date" "desc" }}
+                    {{ partial "list" . }}
+                    {{ end }}
+                    {{ end }}
+                </div>
+
+            </div>
         </div>
-      </li>
-    {{ end }}
-  </ul>
-</section>
+    </div>
+</div>
 
-{{ partial "footer.html" . }}
+{{ partial "footer" . }}
+{{ end }}

@@ -2,32 +2,33 @@
 
 [Live Preview](https://nanx.me/hugo-tanka/)
 
-A minimalist, text-oriented, and performant theme for Hugo/blogdown.
+A minimalist theme for Hugo/blogdown.
 
-This theme is ported and modified from the [Black & Light theme](https://github.com/davidhampgonsalves/hugo-black-and-light-theme) created by David Hamp-Gonsalves.
+This theme is built on Bootstrap 4. The original layout is ported and modified from the [Black & Light theme](https://github.com/davidhampgonsalves/hugo-black-and-light-theme) created by David Hamp-Gonsalves.
 
 ## Features
 
 - Minimalist
-- Responsive
-- Typography first
+- Responsive, mobile-first (Bootstrap 4)
 - Native font stack
-- High Contrast
-- Disqus
-- Google Analytics
-- MathJax
+- Math typesetting (MathJaX)
+- Syntax highlighting (highlight.js)
+- Utterances comments
+- Open Graph meta tags
+- Twitter Cards meta tags
+- Zero web tracking by default
 
 ![Screenshot](https://github.com/nanxstats/hugo-tanka/blob/master/images/hugo-tanka-theme-screenshot.png)
 
 ## Installation
 
-Inside the folder of your Hugo site run:
+Inside the folder of your Hugo site, run:
 
 ```bash
 git submodule add https://github.com/nanxstats/hugo-tanka.git themes/hugo-tanka
 ```
 
-For more information read the official [setup guide](https://gohugo.io/overview/installing/) of Hugo.
+For more information, read the official [setup guide](https://gohugo.io/getting-started/installing/) of Hugo.
 
 ## The config file
 

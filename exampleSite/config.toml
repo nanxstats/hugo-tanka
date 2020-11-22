@@ -1,39 +1,49 @@
-baseurl = "https://nanx.me/hugo-tanka/"
-title = "Hugo Tanka Theme"
+baseurl = "/"
+title = "Hugo Tanka Theme Demo"
 author = "Nan Xiao"
 canonifyurls = true
 languagecode = "en"
 theme = "hugo-tanka"
 
-googleAnalytics = ""
-disqusShortname = ""
-disable_mathjax = false
+enableEmoji = true
+hasCJKLanguage = false
 
-pygmentsstyle      = "vs"
+pygmentsstyle = "vs"
 pygmentscodefences = true
 
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 
 [params]
   sitename = "Hugo Tanka Theme"
+  faviconfile = "images/favicon.png"
+  highlightjs = true
+  highlightjslanguages = ["r", "python", "stan"]
+  uselatex = true
+  progressively = false
+# commentsrepo = "user/repo"
 
-[[menu.main]]
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menu.primary]]
     name = "Home"
-    url = "https://nanx.me"
+    url = "/"
     weight = 1
-[[menu.main]]
+[[menu.primary]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+[[menu.primary]]
     name = "GitHub"
     url = "https://github.com/nanxstats"
-    weight = 2
-[[menu.main]]
-    name = "LinkedIn"
-    url = "https://www.linkedin.com/in/nanxstats"
     weight = 3
-[[menu.main]]
+[[menu.primary]]
     name = "Twitter"
     url = "https://twitter.com/nanxstats"
     weight = 4
-[[menu.main]]
-    name = "RSS"
+[[menu.primary]]
+    name = "Subscribe"
     url = "/index.xml"
     weight = 5

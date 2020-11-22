@@ -1,26 +1,19 @@
-{{ partial "header.html" . }}
+{{ define "main" }}
+    {{ partial "header" . }}
 
-<section id=content>
-  <h1>{{ if .Params.heading }} {{ .Params.heading }} {{ else }} {{ .Title }} {{ end }}</h1>
+    <div class="content">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-sm-12 col-lg-8">
+                    <h1 class="mx-0 mx-md-4">{{ .Title }}</h1>
+                    <div class="markdown">
+                        {{ partial "content" . }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
-  <div id=sub-header>
-    {{ .Params.author }} · {{ .Date.Format (.Site.Params.dateform | default "2006/01/02") }} · {{ .ReadingTime }} minute read
-  </div>
-
-  <div class="entry-content">
-    {{ .Content }}
-  </div>
-
-  <div id=links>
-    {{ if .PrevInSection }}
-      <a class="basic-alignment left" href="{{.PrevInSection.Permalink}}">&laquo; {{.PrevInSection.Title}}</a>
-    {{ end }}
-    {{ if .NextInSection }}
-      <a class="basic-alignment left" href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}} &raquo;</a>
-    {{ end }}
-  </div>
-</section>
-
-{{ partial "disqus.html" .}}
-
-{{ partial "footer.html" . }}
+    {{ partial "utterances.html" .}}
+    {{ partial "footer" . }}
+{{ end }}
