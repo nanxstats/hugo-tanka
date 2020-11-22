@@ -10,3 +10,8 @@ min_version = "0.60.0"
 [[author]]
   name = "Nan Xiao"
   homepage = "https://nanx.me"
+
+[original]
+    author = "David Hamp-Gonsalves"
+    homepage = "https://www.davidhampgonsalves.com"
+    repo = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
