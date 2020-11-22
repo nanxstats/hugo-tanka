@@ -66,6 +66,9 @@ hr {
 
 .header ul.nav li {
     font-size: 1rem;
+}
+
+.header ul.nav {
     margin-bottom: 5rem;
 }
 

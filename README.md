@@ -18,7 +18,7 @@ This theme is built on Bootstrap 4. The original layout is ported and modified f
 - Twitter Cards meta tags
 - Zero web tracking by default
 
-![Screenshot](https://github.com/nanxstats/hugo-tanka/blob/master/images/hugo-tanka-theme-screenshot.png)
+![Screenshot](https://github.com/nanxstats/hugo-tanka/blob/master/images/screenshot.png)
 
 ## Installation
 
