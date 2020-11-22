@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://example.com"
 title = "Hugo Tanka Theme Demo"
 author = "Nan Xiao"
 canonifyurls = true
