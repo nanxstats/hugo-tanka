@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Tanka Theme</title>
-    <link>https://nanx.me/hugo-tanka/</link>
-    <description>Recent content on Hugo Tanka Theme</description>
+    <title>Blog on Hugo Tanka Theme</title>
+    <link>https://nanx.me/hugo-tanka/blog/</link>
+    <description>Recent content in Blog on Hugo Tanka Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2020 12:00:00 +0000</lastBuildDate><atom:link href="https://nanx.me/hugo-tanka/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Nov 2020 12:00:00 +0000</lastBuildDate><atom:link href="https://nanx.me/hugo-tanka/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tanka Theme Demo</title>
       <link>https://nanx.me/hugo-tanka/blog/hugo-tanka-theme-demo/</link>
@@ -36,16 +36,6 @@ They can span multiple paragraphs, if you like.
 Buttons Primary Secondary Success Danger Warning Info Light Dark
 Primary Secondary Success Danger Warning Info Light Dark
 Alerts This is a primary alert—check it out!  This is a secondary alert—check it out!  This is a success alert—check it out!  This is a danger alert—check it out!  This is a warning alert—check it out!  This is a info alert—check it out!</description>
-    </item>
-    
-    <item>
-      <title>About Hugo Tanka</title>
-      <link>https://nanx.me/hugo-tanka/about/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://nanx.me/hugo-tanka/about/</guid>
-      <description>Lorem ipsum dolor sit amet, ex has sale ullum corrumpit, sea dicam nostrum sensibus ad. Porro tritani persecuti te sed. Omittam dissentias pro ex. Atqui luptatum duo id. Eros minim eam ex, novum elitr accusam quo in. Nec ne audire euripidis, mea qualisque consetetur cu. Suspendisse volutpat sem a risus euismod convallis.
-In modus congue feugait eos. In nec nonumy volutpat corrumpit, sea assentior quaerendum no, cum affert scripta ea. No nihil voluptaria pro.</description>
     </item>
     
     <item>

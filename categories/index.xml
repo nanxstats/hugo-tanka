@@ -1,23 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hugo Tanka Theme</title>
     <link>https://nanx.me/hugo-tanka/categories/</link>
     <description>Recent content in Categories on Hugo Tanka Theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="https://nanx.me/hugo-tanka/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>R</title>
-      <link>https://nanx.me/hugo-tanka/categories/r/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://nanx.me/hugo-tanka/categories/r/</guid>
-      <description></description>
-    </item>
-    
+    <language>en</language><atom:link href="https://nanx.me/hugo-tanka/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

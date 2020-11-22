@@ -1,72 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nanx.me/hugo-tanka/post/tanka-theme-demo/</loc>
-    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nanx.me/hugo-tanka/post/hello-markdown/</loc>
-    <lastmod>2016-12-30T21:49:57-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nanx.me/hugo-tanka/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nanx.me/hugo-tanka/post/lorem-ipsum/</loc>
-    <lastmod>2015-01-01T13:09:13-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nanx.me/hugo-tanka/categories/</loc>
-    <priority>0</priority>
+    <loc>https://nanx.me/hugo-tanka/blog/</loc>
+    <lastmod>2020-11-21T12:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://nanx.me/hugo-tanka/</loc>
-    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-11-21T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nanx.me/hugo-tanka/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://nanx.me/hugo-tanka/blog/hugo-tanka-theme-demo/</loc>
+    <lastmod>2020-11-21T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nanx.me/hugo-tanka/post/</loc>
-    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://nanx.me/hugo-tanka/blog/bootstrap/</loc>
+    <lastmod>2020-11-20T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nanx.me/hugo-tanka/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://nanx.me/hugo-tanka/about/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nanx.me/hugo-tanka/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://nanx.me/hugo-tanka/blog/long-title/</loc>
+    <lastmod>2016-01-22T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nanx.me/hugo-tanka/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://nanx.me/hugo-tanka/categories/</loc>
   </url>
   
   <url>
     <loc>https://nanx.me/hugo-tanka/tags/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
