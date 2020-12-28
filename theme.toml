@@ -7,7 +7,7 @@ tags = ["bootstrap", "minimalist", "responsive", "typography"]
 features = ["Blog", "Responsive", "Minimal", "Clean", "Simple", "Minimalist", "Bootstrap", "Fast"]
 min_version = "0.60.0"
 
-[[author]]
+[author]
   name = "Nan Xiao"
   homepage = "https://nanx.me"
 
