@@ -17,7 +17,7 @@
                     {{ end }}
 
                     <span class="date middot" title='{{ .Date.Format "Mon Jan 2 2006 15:04:05 MST" }}'>
-                        {{ .Date.Format  "2006-01-02" }}
+                        {{ .Date.Format (.Site.Params.dateform | default "2006-01-02") }}
                     </span>
 
                     <span class="reading-time middot">
